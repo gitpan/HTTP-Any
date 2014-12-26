@@ -1,0 +1,8 @@
+Revision history for Perl extension HTTP::Any.
+
+0.02  2014-12-xx
+	- on_header and on_body callbacks
+	- only gzip
+
+0.01  2013-08-12
+	- original version
